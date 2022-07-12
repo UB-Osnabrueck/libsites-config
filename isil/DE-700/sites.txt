@@ -921,27 +921,27 @@ stefanie.kaemmerer@uni-osnabrueck.de
 
 
 @j5
-Handapparat Prof. Dr. Lampert (= J-5)
+Handapparat Prof. Wolff (= J-5)
 Martinistr. 8
  Osnabrück
 
 52.2720947, 8.0391113
 
-+49-541/969-6168
++49-541/969-6099
 
-instfsr@uos.de
+ls-wolff@uos.de
 
 
 @j6
-Handapparat Prof. Dr. Ipsen (= J-6)
-Martinistr. 12
+Handapparat Prof. Dr. Jan Oster (= J-6)
+Katharinenstraße 13
  Osnabrück
 
 52.2720551, 8.0386166
 
-+49-541/969-6169
++49-541/969-6451
 
-instkr@uni-osnabrueck.de
+ls-oster@uos.de
 
 
 @j7
@@ -977,7 +977,7 @@ Martinistr. 8
 
 +49-541/969-6168
 
-instfsr@uos.de
+ls-lampert@uos.de
 
 
 @jall
