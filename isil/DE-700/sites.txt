@@ -1132,66 +1132,6 @@ Heger-Tor-Wall 14
 infojw@ub.uni-osnabrueck.de
 
 
-@jfs
-Institut für Staats-, Verwaltungs- und Wirtschaftsrecht, Standort Finanz- und Steuerrecht (= J-FS)
-Martinistr. 8-10
- Osnabrück
-
-52.2720947, 8.0391113
-
-+49-541/969-6168
-
-instFSR@uos.de
-
-
-@jfsbibliothekschindhelm
-Bibliothek Schindhelm in der Institutsbibliothek für Staats-, Verwaltungs- und Wirtschaftsrecht, Standort Finanz- und Steuerrecht (= J-FS-Bibliothek Schindhelm)
-Martinistr. 8
- Osnabrück
-
-52.2720716, 8.0388458
-
-+49-541/969-6168
-
-instFSR@uos.de
-
-
-@jfsmagazin
-Magazin der Institutsbibliothek für Staats-, Verwaltungs- und Wirtschaftsrecht, Standort Finanz- und Steuerrecht (= J-FS-Magazin)
-Heger-Tor-Wall 14
- Osnabrück
-
-52.2722885, 8.0397963
-
-+49-541/969-6100
-
-infojw@ub.uni-osnabrueck.de
-
-
-@jfsmedienschrank
-Medienschrank im Institut für Staats-, Verwaltungs- und Wirtschaftsrecht, Standort Finanz- und Steuerrecht (= J-FS-Medienschrank)
-Martinistr. 10
- Osnabrück
-
-52.2720716, 8.0388458
-
-+49-541/969-6168
-
-instfsr@uni-osnabrueck.de
-
-
-@jfsraraschrank
-Raraschrank im Institut für Staats-, Verwaltungs- und Wirtschaftsrecht, Standort Finanz- und Steuerrecht (= J-FS-Raraschrank)
-Martinistr. 10
- Osnabrück
-
-52.2722885, 8.0397963
-
-+49-541/969-6100
-
-infojw@ub.uni-osnabrueck.de
-
-
 @jic
 Ius-Commune-Bibliothek (= J-IC)
 Heger-Tor-Wall 14
@@ -1202,30 +1142,6 @@ Heger-Tor-Wall 14
 +49-541/969-6106
 
 friederike.dauer@ub.uni-osnabrueck.de
-
-
-@jkr
-Institut für Staats-, Verwaltungs- und Wirtschaftsrecht, Standort Kommunalrecht (= J-KR)
-Martinistr. 12
- Osnabrück
-
-52.2720551, 8.0386166
-
-+49-541/969-6099
-
-instkr@uni-osnabrueck.de
-
-
-@jkrraraschrank
-Raraschrank im Institut für Staats-, Verwaltungs- und Wirtschaftsrecht, Standort Kommunalrecht (= J-KR-Raraschrank)
-Martinistr. 12
- Osnabrück
-
-52.2720551, 8.0386166
-
-+49-541/969-6169
-
-instkr@uni-osnabrueck.de
 
 
 @jlb
@@ -1296,6 +1212,54 @@ Martinistr. 8-12
 +49-541 / 969-6099 oder 6168
 
 isvwr@uni-osnabrueck.de
+
+
+@joerbibliothekschindhelm
+Bibliothek Schindhelm in der Institutsbibliothek für Staats-, Verwaltungs- und Wirtschaftsrecht (= J-OER-Bibliothek Schindhelm)
+Martinistr. 8
+ Osnabrück
+
+52.2720716, 8.0388458
+
++49-541/969-6168
+
+instFSR@uos.de
+
+
+@joermagazin
+Magazin der Institutsbibliothek für Staats-, Verwaltungs- und Wirtschaftsrecht (= J-OER-Magazin)
+Heger-Tor-Wall 14
+ Osnabrück
+
+52.2722885, 8.0397963
+
++49-541/969-6100
+
+infojw@ub.uni-osnabrueck.de
+
+
+@joermedienschrank
+Medienschrank im Institut für Staats-, Verwaltungs- und Wirtschaftsrecht (= J-OER-Medienschrank)
+Martinistr. 10
+ Osnabrück
+
+52.2720716, 8.0388458
+
++49-541/969-6168
+
+instfsr@uni-osnabrueck.de
+
+
+@joerraraschrank
+Raraschrank im Institut für Staats-, Verwaltungs- und Wirtschaftsrecht (= J-OER-Raraschrank)
+Martinistr. 10
+ Osnabrück
+
+52.2722885, 8.0397963
+
++49-541/969-6100
+
+infojw@ub.uni-osnabrueck.de
 
 
 @jpri
