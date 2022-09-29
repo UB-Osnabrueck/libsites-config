@@ -154,16 +154,6 @@ Alte Münze 16
 info@ub.uni-osnabrueck.de
 
 
-@bigbreferenzwerke
-Referenzwerke der Islamischen Gelehrtenbibliothek in der Bibliothek Alte Münze (2. OG) (= B-IGB-Referenzwerke)
-Alte Münze 16
- Osnabrück
-
-+49-541/969-4488
-
-info@ub.uni-osnabrueck.de
-
-
 @bikfn
 Bibliothek des Interdisziplinären Instituts für Kulturgeschichte der Frühen Neuzeit (IKFN) (= B-IKFN)
 Alte Münze 16 / Kamp
@@ -718,18 +708,6 @@ Seminarstr. 34
 +49-541/969-4578
 
 infog@ub.uni-osnabrueck.de
-
-
-@islamischegelehrtenbibliothek
-Islamische Gelehrtenbibliothek im Magazin der Bibliothek Alte Münze (= Islamische Gelehrtenbibliothek)
-Alte Münze 16
- Osnabrück
-
-52.2731726, 8.0457204
-
-+49-541/969-4488
-
-info@ub.uni-osnabrueck.de
 
 
 @j
@@ -2083,7 +2061,7 @@ Handapparat Prof. Dr. Müller (= W-20)
 Rolandstrasse. 8
  Osnabrück
 
-+49-541/969-2758
++49-541/969-2742
 
 sekretariat.uf@uni-osnabrueck.de
 
