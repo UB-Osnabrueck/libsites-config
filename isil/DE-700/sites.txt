@@ -169,9 +169,9 @@ Bibliothek des Interdisziplinären Instituts für Kulturgeschichte der Frühen N
 Alte Münze 16 / Kamp
  Osnabrück
 
-+49-541/969-4776
++49-541/969-6443
 
-beate.mrohs@uni-osnabrueck.de
+lesesaal@ub.uni-osnabrueck.de
 
 
 @bikfnaltdrucke
@@ -179,9 +179,9 @@ Altdrucke der Bibliothek des Interdisziplinären Instituts für Kulturgeschichte
 Alte Münze 16 / Kamp
  Osnabrück
 
-+49-541/969-4776
++49-541/969-4329
 
-beate.mrohs@uni-osnabrueck.de
+lesesaal@ub.uni-osnabrueck.de
 
 
 @bimis
@@ -189,9 +189,9 @@ Bibliothek des Instituts für Migrationsforschung und Interkulturelle Studien (I
 Alte Münze 16 / Kamp
  Osnabrück
 
-+49-541/969-4776
++49-541/969-6443
 
-beate.mrohs@uni-osnabrueck.de
+lesesaal@ub.uni-osnabrueck.de
 
 
 @bkartenschrank
@@ -386,6 +386,16 @@ Alte Münze 16
 lesesaal@ub.uni-osnabrueck.de
 
 
+@bsow
+Bibliothek Alte Münze • Bibliothekszentrale und Bereichsbibliothek Geistes- und Sozialwissenschaften (= B sow)
+Alte Münze 16
+ Osnabrück
+
++49-541/969-4488
+
+info@ub.uni-osnabrueck.de
+
+
 @bspo
 Bibliothek Alte Münze • Bibliothekszentrale und Bereichsbibliothek Geistes- und Sozialwissenschaften (= B spo)
 Alte Münze 16
@@ -429,7 +439,7 @@ Alte Münze 16
 
 52.2731726, 8.0457204
 
-+49-541/969-4490
++49-541/969-4318
 
 lesesaal@ub.uni-osnabrueck.de
 
@@ -469,7 +479,7 @@ geokarte@uos.de
 
 
 @c4
-Handbibliothek Geographie (= C-4)
+Bibliothek der Geographie (= C-4)
 Seminarstr. 19a/b
  Osnabrück
 
@@ -477,7 +487,7 @@ Seminarstr. 19a/b
 
 +49-541/969-4839
 
-geobibli@uos.de
+geobibli@uni-osnabrueck.de
 
 
 @d
@@ -591,7 +601,7 @@ ls-krack@uos.de
 
 
 @j10
-Handapparat Prof. Dr. Hartmann (= J-10)
+Handapparat N.N (= J-10)
 Martinistr. 8
  Osnabrück
 
@@ -599,7 +609,7 @@ Martinistr. 8
 
 +49-541/969-6168
 
-ls-hartmann@uos.de
+isvwr@uni-osnabrueck.de
 
 
 @j11
@@ -615,15 +625,15 @@ instwsr@uni-osnabrueck.de
 
 
 @j12
-Handapparat Prof. Dr. Foerste (= J-12)
-Heger-Tor-Wall 14
+Handapparat Prof. Dr. Lieberknecht (= J-12)
+Katharinenstr. 15
  Osnabrück
 
 52.2726198, 8.0398727
 
-+49-541/969-4529
 
-Ufoerste@uni-osnabrueck.de
+
+markus.lieberknecht@uos.de 
 
 
 @j13
@@ -638,7 +648,7 @@ Heger-Tor-Wall 14
 
 @j14
 Handapparat Prof. Dr. McGuire (= J-14)
-Katharinenstr. 13-15
+Süsterstraße 28
  Osnabrück
 
 52.2728097, 8.0391544
@@ -722,7 +732,7 @@ LS-schulte-noelke@uni-osnabrueck.de
 
 @j20
 Handapparat Prof. Dr. Gesk (= J-20)
-Katharinenstr. 13-15
+Heger-Tor-Wall 14
  Osnabrück
 
 52.2728097, 8.0391544
@@ -743,7 +753,7 @@ Katharinenstr. 13-15
 
 
 @j4
-Handapparat Prof. Dr. von Bar (= J-4)
+Handapparat Prof. Dr. Segger-Piening (= J-4)
 Süsterstr. 28
  Osnabrück
 
@@ -787,7 +797,7 @@ Martinistr. 12
 
 +49-541/969-6022
 
-LS-Cancik@uni-osnabrueck.de
+ls-cancik@uni-osnabrueck.de
 
 
 @j8
@@ -1185,9 +1195,9 @@ Katharinenstr. 13-15
 
 52.2728097, 8.0391544
 
-+49-541 / 969-6091
++49-541 / 969-6451
 
-ls-bieder@uos.de
+ls-oster@uos.de
 
 
 @jws
@@ -1281,9 +1291,9 @@ Albrechtstr. 28a
 
 52.2842206, 8.0259672
 
-+49-541/969-2562
++49-541/969-2501
 
-jones@mathematik.Uni-Osnabrueck.de
+nele.sabel@mathematik.Uni-Osnabrueck.de 
 
 
 @m12
@@ -1346,7 +1356,7 @@ uwe.klink@uni-osnabrueck.de
 
 @m7
 Algebraische Topologie (= M-7)
-Albrechtstr. 28a
+Albrechtstr. 28 a
  Osnabrück
 
 52.2842206, 8.0259672
@@ -1608,6 +1618,16 @@ Nelson-Mandela-Platz 1
 infon@ub.uni-osnabrueck.de
 
 
+@nsow
+Bereichsbibliothek Westerberg • Natur- und Humanwissenschaften, Mathematik / Informatik (= N sow)
+Nelson-Mandela-Platz 1
+ Osnabrück
+
++49-541/969-2544
+
+ infon@ub.uni-osnabrueck.de
+
+
 @ntestothek
 N-Testothek (= N-Testothek)
 Nelson-Mandela-Platz 1
@@ -1747,7 +1767,7 @@ Georg.Steins@uni-osnabrueck.de
 
 
 @u4
-Studienapparat Eder (= U-4)
+Studienapparat Belz (= U-4)
 Schloßstr. 4
  Osnabrück
 
@@ -1755,7 +1775,7 @@ Schloßstr. 4
 
 +49-541/969-4290
 
-Manfred.Eder@uni-osnabrueck.de
+Martin.Belz@uni-osnabrueck.de
 
 
 @v
@@ -1780,7 +1800,7 @@ infojw@ub.uni-osnabrueck.de
 
 @w1
 Handapparat Prof. Dr. Thomas (= W-1)
-Parkstraße 40
+Hamburger Str. 24
  Osnabrück
 
 52.27299, 8.0420065
@@ -1799,7 +1819,7 @@ Rolandstr. 8
 
 +49-541/969-2760
 
-daniel.mergner@uni-osnabrueck.de
+patricia.menke@uni-osnabrueck.de
 
 
 @w11
@@ -1989,7 +2009,7 @@ Rolandstr. 8
 
 +49-541/969-2742
 
- sekretariat.fiwi@uni-osnabrueck.de
+sekretariat.fiwi@uni-osnabrueck.de
 
 
 @w9
@@ -2001,7 +2021,7 @@ Rolandstr. 8
 
 +49-541/969-2745
 
-sekretariat.oekstat@uni-osnabrueck.de  
+sekretariat.oekstat@uni-osnabrueck.de
 
 
 @wbwl
